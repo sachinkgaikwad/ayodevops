@@ -1,2 +1,2 @@
 ## url shortner
-![plot](./images/urlshortner.jpg)
+![plot](../images/short.png)
